@@ -1,0 +1,17 @@
+.btn{
+	background-color: green !important;
+	padding: 18px;
+	text-decoration: none;
+	font-weight:bold;
+	color: white;
+	border-radius: 8px;
+	border: 2px solid black;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.menu-wrapper{
+	background-color: white;
+	padding: 20px 40px;
+	border: 2px solid black;
+}
